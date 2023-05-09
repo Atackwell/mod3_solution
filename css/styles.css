@@ -8,7 +8,7 @@ body {
 }
 	
 #header-nav {
-	background-color: #420420;
+	background-color: #9d2c5fb4;
 	border-radius: 0;
 	border: 0;
 	}
@@ -44,7 +44,7 @@ body {
 	margin-top: 10px;
 	}
 #nav-list a {
-	color:#80183e
+	color:#5b5bbc
 	text-align: center;
 	}
 #nav-list a:hover {

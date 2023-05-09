@@ -8,12 +8,13 @@ body {
 }
 	
 #header-nav {
-	background-color: #420420;
+	background-color: pink;
 	border-radius: 0;
 	border: 0;
 	}
 .navbar brand {
 	padding-top: 25px;
+	background-color: pink;
 	}
 .navbar-brand h1 {
 	font-family: 'Lora', serif;

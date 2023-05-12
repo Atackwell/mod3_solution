@@ -71,7 +71,11 @@ body {
 	text-align: center;
 	}
 	
-
+a {
+	font-size: 2em;
+	color: black;
+	text-align: left;
+	}
 
 
 
